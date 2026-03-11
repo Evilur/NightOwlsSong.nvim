@@ -19,6 +19,7 @@ local modules = {
     'dialog',
     'diff',
     'git',
+    'gitsigns',
     'indent-blankline',
     'nvim-tree',
     'pmenu',
