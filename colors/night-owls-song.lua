@@ -23,6 +23,7 @@ local modules = {
     'indent-blankline',
     'nvim-tree',
     'pmenu',
+    'quick-fix',
     'spellcheck',
     'syntax',
     'treesitter',
