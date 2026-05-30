@@ -15,6 +15,7 @@ vim.g.colors_name = 'night-owls-song'
 ---------------------
 local modules = {
     'basic',
+    'devicons',
     'diagnostic',
     'dialog',
     'diff',
